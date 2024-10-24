@@ -1,0 +1,2 @@
+listings>DB2PROG1>listings
+listings>DBISSUES
